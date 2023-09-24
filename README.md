@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blossomeze&show_icons=true&locale=en&layout=compact" alt="Blossom Eze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-Blossomeze&show_icons=true&locale=en" alt="Blossom Eze" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blossomeze&show_icons=true&locale=en" alt="Blossom Eze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blossomeze&" alt="Blossom Eze" /></p>
