@@ -19,8 +19,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-blossom&show_icons=true&locale=en&layout=compact" alt="dev-blossom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blossomeze&show_icons=true&locale=en&layout=compact" alt="Blossom Eze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-blossom&show_icons=true&locale=en" alt="dev-blossom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-Blossomeze&show_icons=true&locale=en" alt="Blossom Eze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-blossom&" alt="dev-blossom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blossomeze&" alt="Blossom Eze" /></p>
