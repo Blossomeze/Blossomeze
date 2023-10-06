@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Frontend Developer | Content Creator | Technical Writer | Community Manager
+Frontend Developer | Content Creator | Technical Writer | Community Manager | Open Source Contributor
             
 
 ### Streetcred:
@@ -21,7 +21,7 @@ Frontend Developer | Content Creator | Technical Writer | Community Manager
 
 ### Links:
 
-### <a href="https://www.linkedin.com/in/blossom-eze-76146923a">linkedin</a> | <a href="https://www.github.com/Blossomeze">github</a> | <a href="">linkedin</a>
+### <a href="https://www.linkedin.com/in/blossom-eze-76146923a">Linkedin</a> | <a href="https://www.github.com/Blossomeze">Github</a> | <a href="https://x.com/Blossomeze_">X</a>
 
 ## 👇 Few things about me
 
