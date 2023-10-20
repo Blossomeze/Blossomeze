@@ -27,8 +27,13 @@ Frontend Developer | Content Creator | Technical Writer | Community Manager | Op
 
 
 <div>
-
-            
+      <a href="https://github.com/webcrumbs-community/webcrumbs">
+  <img
+    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/contributor-badge.png"
+    alt="WebCrumbs Contributor"
+    width="200px"
+  />
+</a>      
 </div>
 
 
