@@ -12,40 +12,24 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://blossomeze.com">
-  <img src="./img/globe-light.svg#gh-light-mode-only" height="30" />
-  <img src="./img/globe-dark.svg#gh-dark-mode-only" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/0xBlyn">
-  <img src="./img/twitter-light.svg#gh-light-mode-only" height="30" />
-  <img src="./img/twitter-dark.svg#gh-dark-mode-only" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/Blossomeze">
-  <img src="./img/linkedin-light.svg#gh-light-mode-only" height="30" />
-  <img src="./img/linkedin-dark.svg#gh-dark-mode-only" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/blyn001">
-  <img src="./img/instagram-light.svg#gh-light-mode-only" height="30" />
-  <img src="./img/instagram-dark.svg#gh-dark-mode-only" height="30" />
-</a>
+[![Website](https://img.shields.io/badge/Website-blossomeze.com-0abde3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blossomeze.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@0xBlyn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xBlyn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BlossomEze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Blossomeze)
+[![Instagram](https://img.shields.io/badge/Instagram-@blyn001-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/blyn001)
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" style="margin-right:10px;" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br /><br />
 
 ---
@@ -73,3 +57,4 @@ Stay tuned for tutorials, tech tips & fun dev content! 🚀
   <img align="left" alt="Blyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Blossomeze&show_icons=true&theme=radical" />
 </details>
 -->
+
